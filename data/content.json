@@ -1,0 +1,18 @@
+{
+  "content": [
+    {
+      "title": "Lisez les articles",
+      "excerpt": "Maximisez votre culture web",
+      "text": "Chaque auteur tente de vous apporter le plus de valeur possible par article",
+      "link": "Visite le blog",
+      "path": "/blog"
+    },
+    {
+      "title": "Faites un tour vers la liste de membres",
+      "excerpt": "Faites-vous des amis",
+      "text": "Ajoutez, invitez et discutez avec les différents membres",
+      "link": "Découvre la liste de membres",
+      "path": "/liste"
+    }
+  ]
+}

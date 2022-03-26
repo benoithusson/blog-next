@@ -1,0 +1,13 @@
+.tableContainer {
+  padding-left: 10px;
+}
+
+.table {
+  font-size: 15px;
+  border-collapse: collapse;
+}
+
+.table td {
+  border: 1px solid grey;
+  padding: 10px;
+}

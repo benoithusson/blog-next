@@ -1,0 +1,18 @@
+.navbarContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 100px;
+  background-color: #a9c637;
+}
+
+.linkNavbar {
+  color: white;
+  text-decoration: none;
+}
+
+.linkNavbar:hover {
+  color: black;
+  text-decoration: underline;
+}
